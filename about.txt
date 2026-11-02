@@ -5,3 +5,8 @@ Hello! My name is Ibrahim.
 I am learning Git and GitHub from scratch.
 
 This is my first practical GitHub project.
+I have successfully learned how to:
+- Install Git
+- Create a GitHub repository
+- Clone a repository
+- Add, commit and push files.

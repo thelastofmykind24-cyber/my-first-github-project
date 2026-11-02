@@ -1,0 +1,7 @@
+MY FIRST GITHUB PROJECT
+
+Hello! My name is Ibrahim.
+
+I am learning Git and GitHub from scratch.
+
+This is my first practical GitHub project.
